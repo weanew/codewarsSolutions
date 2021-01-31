@@ -1,0 +1,1 @@
+My solutions to tasks in code wars
